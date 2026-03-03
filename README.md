@@ -3,20 +3,20 @@
 <h1>upload.ai</h1>
 </div>
 <div align="center">
-   <a href="https://github.com/mbrenodev">
-      <img alt="Made by mbrenodev" src="https://img.shields.io/badge/made%20by-mbrenodev-yellow">
+   <a href="https://github.com/mbdevlabs">
+      <img alt="Made by mbdevlabs" src="https://img.shields.io/badge/made%20by-mbdevlabs-yellow">
    </a>
-   <a href="https://github.com/mbrenodev/nlw-upload-ai-mastery/commits/main">
-      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/mbrenodev/nlw-upload-ai-mastery">
+   <a href="https://github.com/mbdevlabs/nlw-upload-ai-mastery/commits/main">
+      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/mbdevlabs/nlw-upload-ai-mastery">
    </a>
-   <a href="https://github.com/mbrenodev/nlw-upload-ai-mastery/issues">
-      <img alt="GitHub Issues" src="https://img.shields.io/github/issues/mbrenodev/nlw-upload-ai-mastery">
+   <a href="https://github.com/mbdevlabs/nlw-upload-ai-mastery/issues">
+      <img alt="GitHub Issues" src="https://img.shields.io/github/issues/mbdevlabs/nlw-upload-ai-mastery">
    </a>
-   <a href="https://github.com/mbrenodev/nlw-upload-ai-mastery/pulls">
+   <a href="https://github.com/mbdevlabs/nlw-upload-ai-mastery/pulls">
       <img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
    </a>
-   <a href="https://github.com/mbrenodev/nlw-upload-ai-mastery/blob/main/LICENSE">
-      <img alt="GitHub License" src="https://img.shields.io/github/license/mbrenodev/nlw-upload-ai-mastery">
+   <a href="https://github.com/mbdevlabs/nlw-upload-ai-mastery/blob/main/LICENSE">
+      <img alt="GitHub License" src="https://img.shields.io/github/license/mbdevlabs/nlw-upload-ai-mastery">
    </a>
 </div>
 
@@ -62,7 +62,7 @@ O projeto **Upload.ai** possui muitas aplicações práticas. Ele poderá ajudar
 - [x] Cópia dos resultados gerados pela IA para a área de transferência.
 
 ## 💻 Demonstração
-![Upload-IA2](https://github.com/mbrenodev/nlw-upload-ai-mastery/assets/46978490/b8e00bf5-4944-4819-b277-1efe2e4edd97)
+![Upload-IA2](https://github.com/mbdevlabs/nlw-upload-ai-mastery/assets/46978490/b8e00bf5-4944-4819-b277-1efe2e4edd97)
 
 
 
@@ -113,7 +113,7 @@ Para baixar o código-fonte do projeto em sua máquina, primeiramente terá que 
 Com o Git instalado, em seu terminal execute o seguinte comando:
 
 ```bash
-git clone https://github.com/mbrenodev/nlw-upload-ai-mastery.git
+git clone https://github.com/mbdevlabs/nlw-upload-ai-mastery.git
 ```
 
 Para instalar as dependências e executar o projeto terá que ter instalado em sua máquina o [**node.js**](https://nodejs.org/en/), que vem acompanhado do npm.
@@ -219,17 +219,12 @@ Pull requests são sempre bem-vindos. Em caso de dúvidas ou sugestões, crie um
 
 ## 📝 Licença
 
-<a href="https://github.com/mbrenodev/nlw-upload-ai-mastery/blob/main/LICENSE">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/mbrenodev/nlw-upload-ai-mastery">
+<a href="https://github.com/mbdevlabs/nlw-upload-ai-mastery/blob/main/LICENSE">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/mbdevlabs/nlw-upload-ai-mastery">
 </a>
 
 Esse projeto está sob a licença **MIT**. Veja o arquivo _**LICENSE**_ para mais detalhes.
 
 ---
 
-Desenvolvido com 💚 por <a href="https://github.com/mbrenodev/">Márcio Breno</a>
-
-<div style="display: flex;">
-  <a href="https://www.linkedin.com/in/mbrenodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 2vw" target="_blank"></a>
-  <a href="mailto:mbreno.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 2vw"/></a>
-</div>
+Desenvolvido por [MB](https://github.com/mbdevlabs/)
